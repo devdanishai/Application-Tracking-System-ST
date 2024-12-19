@@ -1,0 +1,11 @@
+project/
+│
+├── .env
+├── app.py
+└── requirements.txt
+
+note:
+1. This repo have colab_backend folder with colab notebook
+   which dont have any link with app it have just colab backend file
+2. app.py have code which ask groq api from user
+3. app1.py is final code for app it will not ask for groq api
